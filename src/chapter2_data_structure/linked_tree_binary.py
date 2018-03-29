@@ -43,9 +43,19 @@ class BinaryTree:
         def traverse_tree(node, side='root'):
             ret = ''
 
-            if Node is not None:
+            if node is not None:
                 ret += '{} -> {}\n'.format(node, side)
                 ret += traverse_tree(node.left_child, 'left')
                 ret += traverse_tree(node.right_child, 'right')
             return ret
         return traverse_tree(self.root_node)
+
+
+if __name__ == '__main__':
+
+    tree = BinaryTree()
+    tree.add_node(3)
+    tree.add_node(4)
+    tree.add_node(10)
+    tree.add_node(2)
+    print(tree)

@@ -1,0 +1,15 @@
+哈哈中文測試
+
+total 44
+drwxrwxr-x 2 ihong ihong 4096 Mar 29 23:32 ./
+drwxrwxr-x 4 ihong ihong 4096 Mar 18 10:49 ../
+-rw-rw-r-- 1 ihong ihong 1050 Mar 29 23:30 arg_test.py
+-rw-rw-r-- 1 ihong ihong  228 Mar 19 21:30 count_vowels.py
+-rw-rw-r-- 1 ihong ihong 2215 Mar 18 17:26 deque.py
+-rw-rw-r-- 1 ihong ihong  601 Mar 19 22:34 double_end_que.py
+-rw-rw-r-- 1 ihong ihong 1775 Mar 29 23:05 linked_tree_binary.py
+-rw-rw-r-- 1 ihong ihong  364 Mar 18 11:17 list_class.py
+-rw-rw-r-- 1 ihong ihong    0 Mar 29 23:33 myoutput
+-rw-rw-r-- 1 ihong ihong  353 Mar 18 11:07 named_tuple.py
+-rw-rw-r-- 1 ihong ihong  982 Mar 19 21:30 node_linked_list.py
+-rw-rw-r-- 1 ihong ihong  885 Mar 18 11:35 stack_browser.py
